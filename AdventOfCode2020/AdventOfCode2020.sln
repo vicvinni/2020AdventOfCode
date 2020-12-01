@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30611.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AdventOfCode2020", "AdventOfCode2020\AdventOfCode2020.csproj", "{52D90B63-23B1-414B-B2C4-A76D1B341D64}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2020AdventOfCodeTests", "2020AdventOfCodeTests\2020AdventOfCodeTests.csproj", "{8EA2D406-3946-45FF-B268-3B26396506E2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{52D90B63-23B1-414B-B2C4-A76D1B341D64}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{52D90B63-23B1-414B-B2C4-A76D1B341D64}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{52D90B63-23B1-414B-B2C4-A76D1B341D64}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{52D90B63-23B1-414B-B2C4-A76D1B341D64}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8EA2D406-3946-45FF-B268-3B26396506E2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8EA2D406-3946-45FF-B268-3B26396506E2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8EA2D406-3946-45FF-B268-3B26396506E2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8EA2D406-3946-45FF-B268-3B26396506E2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6D4FCBAA-80F7-40E1-972B-CC537B0CB937}
+	EndGlobalSection
+EndGlobal
